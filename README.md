@@ -1,8 +1,8 @@
 
-# Adjustable Fixture Mechanism
+# Multi Sensor Fixture Mechanism
 
 ## Overview
-This project involves the design and fabrication of an **adjustable fixture mechanism** for precise positioning of two sensors:
+This project involves the design and fabrication of an **Multi Sensor fixture mechanism** for precise positioning of two sensors:
 - **Pyrometer sensor**
 - **LLT 30X0-25 BL sensor**
 
